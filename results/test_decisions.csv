@@ -1,0 +1,11 @@
+instance_id,image_id,question,selected_answer,reference_answer,h_norm,error,split,decision,accepted
+q011,img011,Qual é o achado?,resposta K,resposta K,0.1,0,test,aceitar,True
+q012,img012,Qual é o achado?,resposta L,resposta errada,0.18,1,test,aceitar,True
+q013,img013,Qual é o achado?,resposta M,resposta M,0.25,0,test,aceitar,True
+q014,img014,Qual é o achado?,resposta N,resposta errada,0.38,1,test,aceitar,True
+q015,img015,Qual é o achado?,resposta O,resposta O,0.47,0,test,aceitar,True
+q016,img016,Qual é o achado?,resposta P,resposta errada,0.58,1,test,aceitar,True
+q017,img017,Qual é o achado?,resposta Q,resposta Q,0.67,0,test,aceitar,True
+q018,img018,Qual é o achado?,resposta R,resposta errada,0.79,1,test,aceitar,True
+q019,img019,Qual é o achado?,resposta S,resposta S,0.86,0,test,aceitar,True
+q020,img020,Qual é o achado?,resposta T,resposta errada,0.94,1,test,abster,False

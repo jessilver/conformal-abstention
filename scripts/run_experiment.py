@@ -5,7 +5,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from src.conformal_abstention import (
+from conformal_abstention import (
     ConformalAbstention,
     evaluate_alpha_grid,
     load_results_csv,

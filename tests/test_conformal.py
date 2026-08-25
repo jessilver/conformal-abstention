@@ -1,7 +1,7 @@
 import numpy as np
 import pytest
 
-from src.conformal_abstention import (
+from conformal_abstention import (
     ConformalAbstention,
     risk_coverage_curve,
 )
