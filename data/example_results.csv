@@ -1,0 +1,21 @@
+instance_id,image_id,question,selected_answer,reference_answer,h_norm,error,split
+q001,img001,Qual é o achado?,resposta A,resposta A,0.08,0,calibration
+q002,img002,Qual é o achado?,resposta B,resposta B,0.14,0,calibration
+q003,img003,Qual é o achado?,resposta C,resposta C,0.21,0,calibration
+q004,img004,Qual é o achado?,resposta D,resposta D,0.29,0,calibration
+q005,img005,Qual é o achado?,resposta E,resposta E,0.35,0,calibration
+q006,img006,Qual é o achado?,resposta F,resposta F,0.43,0,calibration
+q007,img007,Qual é o achado?,resposta G,resposta G,0.51,0,calibration
+q008,img008,Qual é o achado?,resposta H,resposta H,0.62,1,calibration
+q009,img009,Qual é o achado?,resposta I,resposta I,0.76,1,calibration
+q010,img010,Qual é o achado?,resposta J,resposta J,0.89,1,calibration
+q011,img011,Qual é o achado?,resposta K,resposta K,0.10,0,test
+q012,img012,Qual é o achado?,resposta L,resposta errada,0.18,1,test
+q013,img013,Qual é o achado?,resposta M,resposta M,0.25,0,test
+q014,img014,Qual é o achado?,resposta N,resposta errada,0.38,1,test
+q015,img015,Qual é o achado?,resposta O,resposta O,0.47,0,test
+q016,img016,Qual é o achado?,resposta P,resposta errada,0.58,1,test
+q017,img017,Qual é o achado?,resposta Q,resposta Q,0.67,0,test
+q018,img018,Qual é o achado?,resposta R,resposta errada,0.79,1,test
+q019,img019,Qual é o achado?,resposta S,resposta S,0.86,0,test
+q020,img020,Qual é o achado?,resposta T,resposta errada,0.94,1,test
